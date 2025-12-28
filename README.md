@@ -59,11 +59,9 @@
 
 Результат работы программы:
 ```C++
-cos(x-5)*10/(2*x-5)
-
-Postfix notation: x 5 - cos 10 * 2 x * 5 - /
-Enter value of x: 5
-
+Enter expression:cos(x-5)*10/(2*x-5)
+ Enter x=5
+Postfix: x 5 - cos 10 * 2 x * 5 - /
 Result: 2
 ```
 ## 4 Выводы
